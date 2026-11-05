@@ -1,0 +1,19 @@
+/* SwerveUI Foundation */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    line-height: 1.5;
+    color: #1f2937;
+    background: #ffffff;
+}

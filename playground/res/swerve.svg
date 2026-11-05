@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="31.176924mm"
+   height="51.999992mm"
+   viewBox="0 0 31.176924 51.999992"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient53">
+      <stop
+         style="stop-color:#1d4e89;stop-opacity:1;"
+         offset="0.37"
+         id="stop55" />
+      <stop
+         style="stop-color:#00b2ca;stop-opacity:1;"
+         offset="0.44"
+         id="stop53" />
+      <stop
+         style="stop-color:#00b2ca;stop-opacity:1;"
+         offset="0.56"
+         id="stop62" />
+      <stop
+         style="stop-color:#1d4e89;stop-opacity:1;"
+         offset="0.62"
+         id="stop54" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient53"
+       id="linearGradient54"
+       x1="122.10956"
+       y1="178.5"
+       x2="137.69801"
+       y2="205.5"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-114.31534,-166)">
+    <g
+       id="g62">
+      <rect
+         style="fill:url(#linearGradient54);fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         id="rect15"
+         width="31.17691"
+         height="11.999994"
+         x="114.31535"
+         y="186" />
+      <path
+         style="fill:#3fc1c0;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         d="M 116.04741,182.99999 145.49226,166 v 2.04657 a 20.703939,20.703939 120 0 1 -10.35197,17.93013 l -20.82494,12.02329 V 186 a 3.4641182,3.4641182 120.00001 0 1 1.73206,-3.00001 z"
+         id="path16" />
+      <path
+         style="fill:#0899ba;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         d="M 135.96598,197.49999 155.88457,186 v 11.99999 a 3.4640937,3.4640937 120 0 1 -1.73205,3 l -29.44487,17 v -1 a 22.516657,22.516657 120.00001 0 1 11.25833,-19.5 z"
+         id="path16-5"
+         transform="translate(-10.392306)" />
+    </g>
+  </g>
+</svg>
